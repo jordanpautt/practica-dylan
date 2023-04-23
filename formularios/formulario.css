@@ -1,0 +1,40 @@
+form {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  padding: 22px 16px;
+  background-color: white;
+  border-radius: 20px;
+  box-shadow: 1px -1px 2px 4px #00000023;
+}
+
+.form {
+  width: 400px;
+  height: 400px;
+
+}
+
+
+body {
+  margin: 0;
+  padding: 0;
+  height: 100vh;
+  width: 100vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #dfdddd;
+}
+
+h3 {
+
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+
+button {
+
+  margin-top: 8px;
+
+}
